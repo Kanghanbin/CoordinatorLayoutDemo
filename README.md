@@ -5,19 +5,20 @@
 
 1. app:layout_scrollFlags="scroll|exitUntilCollapsed"
 
-   ![](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/exitunticollapsed.gif)
+
+   ![exitunticollapsed](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/exitunticollapsed.gif)
 
 2. app:layout_scrollFlags="scroll|enterAlways"
 
-   ![](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/enteralways.gif)
+   ![enteralways](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/enteralways.gif)
 
 3. app:layout_scrollFlags="scroll|enterAlwaysCollapsed"
 
-   ![](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/enteralwayscollapsed.gif)
+   ![enteralwayscollapsed](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/enteralwayscollapsed.gif)
 
 4. app:layout_scrollFlags="scroll|snap"
 
-   ![](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/snap.gif)
+   ![snap](https://kanghanbin.github.io/CoordinatorLayoutDemo/gif/snap.gif)
 
 
 
