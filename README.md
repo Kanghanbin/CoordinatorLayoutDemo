@@ -1,7 +1,7 @@
 # CoordinatorLayoutDemo
  CoordinatorLayout打造折叠悬浮效果
 
-### 七、运行效果
+### 运行效果
 
 1. app:layout_scrollFlags="scroll|exitUntilCollapsed"
 
